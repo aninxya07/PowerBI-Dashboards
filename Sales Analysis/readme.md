@@ -1,5 +1,5 @@
-## 📊 Air Quality Index (2016-20)
+## 📊 Sales Analysis
 
-<p align="center">
-  <img src="output.png" width="800"/>
+<p>
+  <img src="output.jpg" width="800"/>
 </p>
